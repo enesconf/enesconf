@@ -6,10 +6,10 @@ I'm a Junior DevOps Engineer <img src="https://github.com/1enesplus/1enesplus/bl
 ### 🛠  What am I use?
 
  <li>Digital Ocean & AWS</li>
- <li>Jenkins</li>
  <li>Docker</li>
  <li>Kubernetes</li>
- <li>Bamboo</li>  
+ <li>Bamboo</li>
+  <li>Rancher</li>
  <li>Other</li>
  </ul>
  
