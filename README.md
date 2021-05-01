@@ -5,7 +5,7 @@ I'm a Junior DevOps Engineer <img src="https://github.com/MehmetIron/MehmetIron/
 
 ### 🛠  What am I use?
 
- <li>Digital Ocean</li>
+ <li>Digital Ocean & Aws</li>
  <li>Jenkins</li>
  <li>Docker</li>
  <li>Kubernetes</li>
