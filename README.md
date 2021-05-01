@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
+<h1> Hey 👋, I'm Enes!</h1>
 
 I'm a Junior DevOps Engineer <img src="https://github.com/MehmetIron/MehmetIron/blob/main/Devops_phases.png" alt="devops" width=480 height=auto align="right">
 
