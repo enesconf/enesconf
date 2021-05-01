@@ -5,7 +5,7 @@ I'm a Junior DevOps Engineer <img src="https://github.com/1enesplus/1enesplus/bl
 
 ### 🛠  What am I use?
 
- <li>Digital Ocean & Aws</li>
+ <li>Digital Ocean & AWS</li>
  <li>Jenkins</li>
  <li>Docker</li>
  <li>Kubernetes</li>
