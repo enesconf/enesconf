@@ -5,20 +5,11 @@ I'm a Junior DevOps Engineer <img src="https://github.com/MehmetIron/MehmetIron/
 
 ### 🛠  What am I use?
 
-<ul > <strong>AWS</strong>
  <li>Digital Ocean</li>
  <li>Jenkins</li>
- <li>Linux</li>
- <li>ELB</li>
- <li>VPC</li>  
- <li>S3</li>
- <li>EC2</li>
- <li>Lambda</li>
- <li>RDS</li>
- <li>ECS</li>
- <li>ECR</li>
- <li>EKS</li>
- <li>Elastic Beanstalk</li>
+ <li>Docker</li>
+ <li>Kubernetes</li>
+ <li>Bamboo</li>  
  </ul>
  
  
