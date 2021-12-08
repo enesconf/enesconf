@@ -8,7 +8,7 @@ I'm a Junior DevOps Engineer <img src="https://github.com/1enesplus/1enesplus/bl
  <li>Digital Ocean & AWS</li>
  <li>Docker</li>
  <li>Kubernetes</li>
- <li>Bamboo</li>
+ <li>Bamboo & Jenkins</li>
   <li>Rancher</li>
  <li>Other</li>
  </ul>
