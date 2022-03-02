@@ -1,6 +1,6 @@
 <h1> Hey 👋, I'm Enes!</h1>
 
-I'm a Junior DevOps Engineer <img src="https://github.com/1enesplus/1enesplus/blob/main/devops.png" alt="devops" width=480 height=auto align="right">
+I'm a Cloud Native Engineer <img src="https://github.com/1enesplus/1enesplus/blob/main/devops.png" alt="devops" width=480 height=auto align="right">
 
 
 ### 🛠  What am I use?
