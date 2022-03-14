@@ -5,7 +5,7 @@ I'm a Cloud Native Engineer <img src="https://github.com/1enesplus/1enesplus/blo
 
 ### 🛠  What am I use?
 
- <li>Digital Ocean & AWS</li>
+ <li>AWS</li>
  <li>Docker</li>
  <li>Kubernetes</li>
  <li>Bamboo & Jenkins</li>
