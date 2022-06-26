@@ -9,7 +9,7 @@ I'm a Cloud Native Engineer <img src="https://github.com/1enesplus/1enesplus/blo
  <li>Docker</li>
  <li>Kubernetes</li>
  <li>Bamboo & Jenkins</li>
-  <li>Rancher</li>
+  <li>Kubernetes</li>
  <li>Other</li>
  </ul>
  
